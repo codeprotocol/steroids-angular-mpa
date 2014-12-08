@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This example app is deprecated, using an outdated version of Steroids. It is preserved only for legacy purposes, and should not be used as a reference.
+
 # Steroids AngularJS MPA Example App
 
 This app is meant to showcase the Steroids multi-page app (MPA) architecture with AngularJS. It is meant to be run as a Steroids project.
